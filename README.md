@@ -1,2 +1,2 @@
 # HelloGitHubIT431
-My frist reponsitory in GitHub
+My first reponsitory in GitHub
